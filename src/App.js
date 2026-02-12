@@ -11,7 +11,7 @@ function App() {
             'Attila the Hen',
             'Dixie Chick',
             'Gregory Peck',
-            'Mary Poopins'
+            'Mary Poppins'
           ]}></Sidebar>
       </header>
     </div>
